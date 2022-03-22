@@ -74,7 +74,7 @@ public class Work_With_WindowHandlesOne {
 			driver.close();
 		}
 
-		// driver.quit(); // close the all parent and child window
+		driver.quit(); 
 
 	}
 
