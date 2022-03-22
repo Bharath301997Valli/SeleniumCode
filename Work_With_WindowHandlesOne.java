@@ -74,7 +74,7 @@ public class Work_With_WindowHandlesOne {
 			driver.close();
 		}
 
-		driver.quit(); 
+		driver.close(); 
 
 	}
 
